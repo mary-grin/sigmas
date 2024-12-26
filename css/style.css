@@ -712,42 +712,42 @@ main {
   }
 
   .miau {
-    background-image: url(../img/image8.1.png);
+    background-image: url("../img/image8.1.png");
     background-repeat: no-repeat;
     width: 345px;
     height: 296px;
   }
 
   .miau1 {
-    background-image: url(../img/image8.2.png);
+    background-image: url("../img/image8.2.png");
     background-repeat: no-repeat;
     width: 345px;
     height: 296px;
   }
 
   .miau2 {
-    background-image: url(../img/image8.3.png);
+    background-image: url("../img/image8.3.png");
     background-repeat: no-repeat;
     width: 345px;
     height: 296px;
   }
 
   .miau3 {
-    background-image: url(../img/image8.4.png);
+    background-image: url("../img/image8.4.png");
     background-repeat: no-repeat;
     width: 345px;
     height: 296px;
   }
 
   .maiu4 {
-    background-image: url(../img/image8.5.png);
+    background-image: url("../img/image8.5.png");
     background-repeat: no-repeat;
     width: 345px;
     height: 296px;
   }
 
   .miau5 {
-    background-image: url(img/image8.6.png);
+    background-image: url("../img/image8.6.png");
     background-repeat: no-repeat;
     width: 345px;
     height: 296px;
